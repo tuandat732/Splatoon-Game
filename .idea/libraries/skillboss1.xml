@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skillboss1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Xplatoon_jar/assets/images/boss/skillboss.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

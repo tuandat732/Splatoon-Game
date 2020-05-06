@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Xplatoon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Xplatoon_jar/Xplatoon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

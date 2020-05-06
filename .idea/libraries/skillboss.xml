@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skillboss">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/images/boss/skillboss.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
